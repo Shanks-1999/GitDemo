@@ -9,6 +9,7 @@ namespace GitDemo
             Console.WriteLine("Hello World!");
             Console.WriteLine("Welcome to GitHub ");
             Console.WriteLine("test");
+            Console.WriteLine("Program");
 
         }
     }
